@@ -1,4 +1,5 @@
 require 'upcoming_bills'
+require 'pry'
 
 RSpec.describe UpcomingBills do
   describe '#fetch_upcoming_bills' do
